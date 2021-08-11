@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Robert. Also known as Disciple Rubble.
+- 👋 Hi, I’m Robert. Also known as Rubble.
 - 👀 I’m interested in riding motorcycles and cinematography.
 - 🌱 I’m currently learning laravel.
 - 📫 How to reach me... www.Robert-Herring.com
