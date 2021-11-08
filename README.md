@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Robert. Also known as Rubble.
+- 👋 Hi, I’m Robert. Also known as PixelRubble.
 - 👀 I’m interested in riding motorcycles and cinematography.
-- 🌱 I’m currently learning laravel.
+- 🌱 I’m constantly learning more about laravel, vue, node, and more.
 - 📫 How to reach me... www.Robert-Herring.com
 
 <!---
